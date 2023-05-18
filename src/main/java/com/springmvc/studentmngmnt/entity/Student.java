@@ -17,7 +17,7 @@ public class Student {
     @Column(name = "email")
     private String email;
 
-    public long getId() {
+    public Long getId() {
         return id;
     }
 
