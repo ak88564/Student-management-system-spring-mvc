@@ -10,4 +10,7 @@
 ### How to run the project:
 
 - #### Use the intellij idea to run this project
+- #### Create database "sms" in mysql 
+- #### Configure the application.properties file based on user credentials
 - #### Open browser: localhost:port_number/students, open through this link
+
