@@ -14,3 +14,4 @@
 - #### Configure the application.properties file based on user credentials
 - #### Open browser: localhost:port_number/students, open through this link
 
+<img alt="screenshot" src="Screenshot 2023-06-17 212026.png"/>
