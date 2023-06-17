@@ -19,14 +19,14 @@ public class StudentmngmntApplication implements CommandLineRunner {
 	private StudentRepository studentRepository;
 	@Override
 	public void run(String... args) throws Exception {
-		Student student1 = new Student("Aditya", "kumar", "ak88564@gmail.com");
-		studentRepository.save(student1);
-
-		Student student2 = new Student("Aman", "kumar", "amank4867@gmail.com");
-		studentRepository.save(student2);
-
-		Student student3 = new Student("Manju", "devi", "queen1@gmail.com");
-		studentRepository.save(student3);
+//		Student student1 = new Student("Aditya", "kumar", "ak88564@gmail.com");
+//		studentRepository.save(student1);
+//
+//		Student student2 = new Student("Aman", "kumar", "amank4867@gmail.com");
+//		studentRepository.save(student2);
+//
+//		Student student3 = new Student("Manju", "devi", "queen1@gmail.com");
+//		studentRepository.save(student3);
 
 
 	}
